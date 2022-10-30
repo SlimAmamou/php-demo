@@ -1,0 +1,101 @@
+.page{
+    color: rgb(156, 19, 19);
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.left{
+    text-align: right;
+}
+
+.right{
+    padding-left: 15px;
+    text-align: left;
+}
+
+#form_principale{
+    color: black;
+
+}
+
+.bouton{
+    margin-left: 25px;
+    color: whitesmoke;
+    background-color: rgb(61, 2, 30);
+    font-style: oblique;
+    width: 150px;
+}
+
+#note{
+    padding-left: 54px;
+}
+
+#evaluation{
+    padding-left: 102px;
+}
+
+.chiffre{
+    width: 30px;
+}
+
+#texte{
+    width: 500px;
+}
+
+.newnote{
+    margin-left: 60px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: whitesmoke;
+    background-color: rgb(61, 2, 30);
+    font-style: oblique;
+    width: 150px;
+}
+
+.updbtn{
+    margin-left: 100px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: whitesmoke;
+    background-color: rgb(61, 2, 30);
+    font-style: oblique;
+    width: 150px;
+}
+
+.tblphp td{
+    padding-left: 5px;
+    padding-right: 3px;
+    border: rgb(156, 19, 19) solid 1px;
+}
+
+.tblphp{
+    border: rgb(156, 19, 19) solid 2px;    
+}
+
+#MoyGen{
+    margin-left: 25px;
+    color: rgb(44, 4, 16);
+    font-size: 20px;
+}
+
+#btnretour{
+    margin-left: 100px;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    color: whitesmoke;
+    background-color: rgb(44, 4, 16);
+    font-style: oblique;
+    width: 150px;
+}
+
+#BasDePage {
+    position: relative;
+    width: 100%;
+    background-color: rgb(61, 2, 30);
+    height: 60px;
+    color: rgb(176, 216, 243);
+    font-size: 15px;
+    padding-top: 6px;
+    padding-left: 10px;
+    text-align: left;
+}
